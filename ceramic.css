@@ -1,0 +1,115 @@
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@500&display=swap');
+
+
+
+
+
+body{
+    
+  /* background: #1d223a; */
+  background: #1c2138df;
+    margin:8px;
+    padding: 30px;
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+
+
+header{
+    color: white;
+    background-color: #137474e3;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+
+
+
+#datenow{
+    color: #2bff58;
+    font-size: 1.5rem;
+    padding: 15px;
+}
+
+
+
+.nav-link:hover{
+    background:#95a2ff7b ;
+    color: white;
+    transform:scale(1.1) ;
+    border-radius: 5px;
+}
+
+
+.nav-link{
+    color: white;
+}
+
+
+
+.calculator input {
+    height: 45px;
+    width: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+   
+}
+
+
+form input {
+    height: 40px;
+    width: 120px;
+   text-align: center;
+   
+}
+
+
+
+form div {
+    margin: 20px;
+   
+ }
+
+
+
+form{
+   
+   font-size: ;
+    padding: 10px;
+    color: white;
+}
+
+
+form p {
+    color: #88d323a6;
+   
+}
+
+
+#alltotal{
+    color: #88d323a6;
+}
+
+
+
+.persentes{
+    color: #d8a036eb;
+    padding: 20px;
+}
+
+
+.persentes h5{
+    font-size: 1.2rem;
+}
+
+
+button{
+    background-color: #1d3a1ee5; 
+    padding: 10px 40px;
+    color: white;
+    font-size: 1rem;
+    box-shadow: 3px 4px 5px black;
+    border-radius: 4px;
+}

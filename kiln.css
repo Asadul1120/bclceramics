@@ -1,0 +1,66 @@
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@500&display=swap');
+
+
+
+body{
+    background: #1c2138df;
+    margin:8px;
+    padding: 30px;
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+header{
+    color: white;
+    background-color: #137474e3;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.nav-link{
+    color: white;
+}
+#datenow{
+    color: #2bff58;
+    font-size: 1.5rem;
+    padding: 15px;
+}
+
+
+.nav-link:hover{
+    background:#95a2ff7b ;
+    color: white;
+    transform:scale(1.1) ;
+    border-radius: 5px;
+}
+#sqm input{
+    height: 45px;
+    width: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+form input {
+    height: 45px;
+    width: 125px;
+    text-align: center;
+ }
+  form{
+     padding: 30px;
+     color: white;
+    
+    
+ }
+.total{
+    font-size: 1.5rem;
+    margin: 30px;
+}
+ 
+ button{
+    padding: 10px 40px;
+    color: white;
+    font-size: 1rem;
+    box-shadow: 3px 4px 5px black;
+    border-radius: 4px;
+   }
+  
